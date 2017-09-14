@@ -1,0 +1,26 @@
+body
+{
+	background-color: #FFFF33
+}
+.picture
+{
+	width:100px;
+	height: 100px;
+	border-radius: 50px;
+	
+	margin:0 auto;
+	display: block
+	
+}
+h1
+{
+	text-align:center;
+	background-color:#33CCFF;
+	font-size: 18px;
+}
+.text
+{
+	text-align:center;
+	background-color:#FFDD55;
+	font-size:13px;
+}
